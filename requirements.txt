@@ -1,8 +1,8 @@
-from IPython.display import display, Image, clear_output, HTML
-import time
-import random
-import requests
-from bs4 import BeautifulSoup
-import json
-import ipywidgets as widgets
-from jupyter_ui_poll import ui_events
+IPython.display
+time
+random
+requests
+bs4
+json
+ipywidgets
+jupyter_ui_poll
