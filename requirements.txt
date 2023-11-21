@@ -1,8 +1,7 @@
-IPython.display
 time
 random
 requests
-bs4
+BeautifulSoup
 json
 ipywidgets
 jupyter_ui_poll
