@@ -1,7 +1,6 @@
 from IPython.display import display, Image, clear_output, HTML
 import time
 import random
-import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import json
