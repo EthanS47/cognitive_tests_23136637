@@ -1,3 +1,2 @@
 ipywidgets
 jupyter_ui_poll
-python_version=="3.9.18"
