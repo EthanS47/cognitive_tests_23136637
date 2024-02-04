@@ -1,2 +1,7 @@
+time
+random
+requests
+BeautifulSoup
+json
 ipywidgets
 jupyter_ui_poll
